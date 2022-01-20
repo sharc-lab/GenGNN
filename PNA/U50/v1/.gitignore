@@ -1,0 +1,10 @@
+.vscode
+result
+PNA_HLS_proj
+vitis_hls.log
+_x/
+_x.*/
+build_dir.*/
+.Xil/
+.run/
+.nfs*

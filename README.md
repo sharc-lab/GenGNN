@@ -1,1 +1,1 @@
-# GenGNN
+# GNN acceleration on FPGA using HLS

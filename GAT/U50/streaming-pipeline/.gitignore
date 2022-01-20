@@ -1,0 +1,14 @@
+.vscode/
+__pycache__/
+dataset/
+project_1/
+.ipcache/
+.run/
+.Xil/
+_x/
+_x.hw.xilinx_u50_gen3x16_xdma_201920_3/
+_x.sw_emu.xilinx_u50_gen3x16_xdma_201920_3/
+build_dir.hw.xilinx_u50_gen3x16_xdma_201920_3/
+build_dir.sw_emu.xilinx_u50_gen3x16_xdma_201920_3/
+package.hw/
+package.sw_emu/

@@ -1,0 +1,5 @@
+.vscode
+Golden_C_output.txt
+actual_Golden_C_output.txt
+result
+vitis_hls.log

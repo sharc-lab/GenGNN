@@ -1,0 +1,22 @@
+{
+    "schema_version": {
+        "major": "1",
+        "minor": "1",
+        "patch": "0"
+    },
+    "generation": {
+        "source": "vp",
+        "PID": "11790",
+        "timestamp": "1641080604273"
+    },
+    "files": [
+        {
+            "name": "opencl_summary.csv",
+            "type": "PROFILE_SUMMARY"
+        },
+        {
+            "name": "opencl_trace.csv",
+            "type": "VP_TRACE"
+        }
+    ]
+}
