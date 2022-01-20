@@ -1,7 +1,8 @@
 # GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration
 
-Stefan Abi-Karam*, Yuqi He*, Rishov Sarkar*, Lakshmi Sathidevi, Zihang Qiao, Cong Hao  
-*equal contribution
+Stefan Abi-Karam*, Yuqi He*, Rishov Sarkar*, Lakshmi Sathidevi, Zihang Qiao, Cong Hao (*equal contribution; ordered alphabetically)
+
+School of Electrical and Computer Engineering, Georgia Institute of Technology
 
 ## Overview
 
